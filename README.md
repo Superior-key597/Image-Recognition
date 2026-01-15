@@ -48,9 +48,9 @@ This project uses the MNIST dataset in CSV format.
 
 ## 3. Run Experiments
 
-```bash
-python experiments.py
 
+python experiments.py
+```
 ## 🛠️ Features & Tech Stack
 
 **Core Engine:** Python 3.x, NumPy  
