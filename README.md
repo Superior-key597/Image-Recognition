@@ -3,7 +3,7 @@
 A modular, from-scratch implementation of a neural network using **only NumPy**.  
 No PyTorch, no TensorFlow — just mathematics, linear algebra, and code.
 
----
+
 
 ## 🚀 Why This Project?
 
@@ -17,7 +17,7 @@ Key goals:
 - **Visualization** – Automated plotting of loss and accuracy curves
 - **He Initialization** – Proper weight initialization for deep network stability
 
----
+
 
 ## 🎯 When to Use This Project
 
@@ -26,7 +26,7 @@ Key goals:
 - You want to see how backpropagation and gradient descent work under the hood
 - You are building a portfolio to demonstrate core AI engineering skills
 
----
+
 
 ## ⚡ Quick Start
 
@@ -44,7 +44,7 @@ This project uses the MNIST dataset in CSV format.
 - Download `train.csv` from Kaggle (Digit Recognizer)
 - Place `train.csv` in the project root directory
 
----
+
 
 ## 3. Run Experiments
 
@@ -70,7 +70,7 @@ python experiments.py
 - Optimization: Stochastic Gradient Descent (SGD)
 - Loss: Categorical Cross-Entropy
 
----
+
 
 ## 📂 Project Structure
 
