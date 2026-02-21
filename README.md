@@ -102,8 +102,6 @@ Image-Recognition/
 Results are based on a train/validation split of the MNIST training set.  
 Exact performance may vary depending on initialization and hyperparameters.
 
-* * *
-
 🧠 What I Learned
 ----------------
 
