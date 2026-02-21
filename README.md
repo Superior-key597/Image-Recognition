@@ -73,21 +73,23 @@ python experiments.py
 
 
 ## 📂 Project Structure
-----------
-- Image-Recognition/
-- ├── src/
-- │   ├── model.py          # NeuralNetwork class & backprop engine
-- │   ├── utils.py          # Batching, one-hot encoding, accuracy
-- │   ├── initializers.py   # He uniform initialization
-- │   ├── activations.py    # ReLU, Softmax & derivatives
-- │   └── losses.py         # Cross-entropy loss
-- ├── results/              # Generated training plots
-- ├── train.py              # Training loop
-- ├── experiments.py        # Experiment runner
-- ├── requirements.txt
-- └── README.md
 
-## 🌍 Results
+```text
+Image-Recognition/
+├── src/
+│   ├── model.py          # NeuralNetwork class & backprop engine
+│   ├── utils.py          # Batching, one-hot encoding, accuracy
+│   ├── initializers.py   # He uniform initialization
+│   ├── activations.py    # ReLU, Softmax & derivatives
+│   └── losses.py         # Cross-entropy loss
+├── results/              # Generated training plots
+├── train.py              # Training loop
+├── experiments.py        # Experiment runner
+├── requirements.txt
+└── README.md
+```
+
+🌍 Results
 ----------
 
 | Metric              | Performance |
@@ -102,7 +104,7 @@ Exact performance may vary depending on initialization and hyperparameters.
 
 * * *
 
-## 🧠 What I Learned
+🧠 What I Learned
 ----------------
 
 * How backpropagation works at a mathematical level
@@ -110,7 +112,7 @@ Exact performance may vary depending on initialization and hyperparameters.
 * The impact of weight initialization on training stability
 * How to structure ML projects cleanly without frameworks
 
-## 👤 Author
+👤 Author
 --------
 
 High school student learning artificial intelligence and machine learning.
