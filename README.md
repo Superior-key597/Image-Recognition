@@ -24,7 +24,6 @@ Key goals:
 - You want to understand the mathematics behind deep learning
 - You need a lightweight MLP without heavy dependencies
 - You want to see how backpropagation and gradient descent work under the hood
-- You are building a portfolio to demonstrate core AI engineering skills
 
 
 
